@@ -149,13 +149,13 @@
 		</dependency>
  
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
-		<!--
+
 		<dependency>
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
 			<version>6.9.13.6</version>
 		</dependency>
- -->
+
 		<!-- https://mvnrepository.com/artifact/org.assertj/assertj-core -->
 		<dependency>
 			<groupId>org.assertj</groupId>
