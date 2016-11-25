@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.dji.itester.cases.NewTest">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterTest"/>
+          <include name="test"/>
+          <include name="beforeSuite"/>
+          <include name="afterClass"/>
+          <include name="closeClient"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.dji.itester.cases.NewTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

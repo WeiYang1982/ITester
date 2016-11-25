@@ -1,0 +1,20 @@
+2016-11-24 18:33:49.150 INFO  com.dji.itester.utils.LogUtil 18 info - 
+***************************返回开始**********************************
+OK
+200
+Context{"status":0,"uid":"730650542689353728","token":"0a467776fd17484aaa5c482af1c0f36175423096","status_msg":"ok","avatar":"http://usa-test-sp.skypixel.com/user/charlie-ccc3968c-e907-4ace-975e-6bcfcdbd5af7/avatar/x128"}
+***************************返回结束**********************************
+2016-11-24 18:33:49.151 DEBUG com.dji.itester.utils.LogUtil 22 debug - 	Server: nginx/1.8.0
+2016-11-24 18:33:49.152 DEBUG com.dji.itester.utils.LogUtil 22 debug - 	Date: Thu, 24 Nov 2016 10:33:48 GMT
+2016-11-24 18:33:49.152 DEBUG com.dji.itester.utils.LogUtil 22 debug - 	Content-Type: application/json; charset=utf-8
+2016-11-24 18:33:49.152 DEBUG com.dji.itester.utils.LogUtil 22 debug - 	Transfer-Encoding: chunked
+2016-11-24 18:33:49.152 DEBUG com.dji.itester.utils.LogUtil 22 debug - 	Connection: keep-alive
+2016-11-24 18:33:49.152 DEBUG com.dji.itester.utils.LogUtil 22 debug - 	Set-Cookie: _mkra_ctxt=e805986461170a5f0143f82b6684b562--200; path=/; max-age=5; HttpOnly
+2016-11-24 18:33:49.152 DEBUG com.dji.itester.utils.LogUtil 22 debug - 	Set-Cookie: request_method=POST; path=/
+2016-11-24 18:33:49.153 DEBUG com.dji.itester.utils.LogUtil 22 debug - 	Set-Cookie: lang=zh-CN; path=/; expires=Thu, 01 Dec 2016 10:33:47 -0000
+2016-11-24 18:33:49.153 DEBUG com.dji.itester.utils.LogUtil 22 debug - 	Set-Cookie: ip_location=cn; path=/
+2016-11-24 18:33:49.153 DEBUG com.dji.itester.utils.LogUtil 22 debug - 	ETag: W/"6c49ea178cdb3741fb4106d7213faff3"
+2016-11-24 18:33:49.153 DEBUG com.dji.itester.utils.LogUtil 22 debug - 	Cache-Control: max-age=0, private, must-revalidate
+2016-11-24 18:33:49.153 DEBUG com.dji.itester.utils.LogUtil 22 debug - 	X-Request-Id: afca13ba-9df9-478a-baec-416241c20d4f
+2016-11-24 18:33:49.153 DEBUG com.dji.itester.utils.LogUtil 22 debug - 	X-Runtime: 1.012083
+2016-11-24 18:33:49.153 DEBUG com.dji.itester.utils.LogUtil 22 debug - 	Vary: Origin
